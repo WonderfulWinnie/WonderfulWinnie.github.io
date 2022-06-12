@@ -8,4 +8,4 @@ Image
 ![Image](/assets/CorgiCloseup-min.jpg)
 
 testing
-<img src="/assets/CorgiCloseup-min.jpg" width="100" height="100">
+<img src="/assets/CorgiCloseup-min.jpg" width="300" height=auto>
