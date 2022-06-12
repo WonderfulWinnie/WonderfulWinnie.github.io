@@ -4,8 +4,6 @@ title: Garden of the Gods
 ---
 
 Test Content
-Image
-![Image](/assets/CorgiCloseup-min.jpg)
-
-testing
-<img src="/assets/CorgiCloseup-min.jpg" width="300" height=auto>
+<p align="center">
+<img src="/assets/CorgiCloseup-min.jpg" width=50% height=auto>
+</p>
