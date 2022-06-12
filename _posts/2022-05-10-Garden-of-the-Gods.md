@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-cayman
 layout: post
 title: Garden of the Gods
 ---
