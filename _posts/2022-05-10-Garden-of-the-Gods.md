@@ -2,7 +2,6 @@
 layout: post
 title: Garden of the Gods
 description: May 10, 2022
-date: May 10, 2022
 ---
 <body>
 
