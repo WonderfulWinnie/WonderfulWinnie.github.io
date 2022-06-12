@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Garden of the Gods
+date: May 10, 2022
 ---
 <body>
 
