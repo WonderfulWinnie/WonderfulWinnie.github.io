@@ -6,8 +6,6 @@ title: Garden of the Gods
 
 <h1>May 10, 2022</h1>
 <p align="center">
-  <img src="/assets/CorgiCloseup-min.jpg" width=200 height=auto>
-  <img src="/assets/CorgiCloseup-min.jpg" width=50% height=auto>
   <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
   
   <p>
