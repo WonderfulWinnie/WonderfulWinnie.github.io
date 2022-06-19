@@ -4,7 +4,7 @@ title: Garden of the Gods
 description: May 10, 2022
 ---
 <head>
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="https://wonderfulwinnie.github.io/css/main.css">
 <body>
 
 <p align="center">
