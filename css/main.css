@@ -23,13 +23,14 @@
 }
 
 .fcc-btn {
-  background-color: #199319;
+  background-color: #00BFFF;
   color: white;
   padding: 15px 25px;
+  transition-duration: 0.4s;
   text-decoration: none;
 }
 
 .fcc-btn:hover {
-  background-color: #223094;
+  background-color: #1E90FF;
   text-decoration: none;
 }
