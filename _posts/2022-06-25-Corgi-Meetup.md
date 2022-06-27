@@ -23,7 +23,9 @@ description: June 25, 2022
       <img src="/assets/june/25/cm_1_5.jpg" width=auto height=auto>
     </p>
   &emsp; 
-    One day we were googling fun places to bring dogs in San Diego and we came across [The San Diego Corgi Meetup](https://www.meetup.com/sandiegocorgimeetup/) group. We saw they had lots of members with lots and lots of corgis, AND, they were having a meetup in the not too distant future! After making an account and signing up, we looked at some of the other corgis who were attending. We couldn't wait to meet them all and we were sure Winnie was going to have a blast (even with the life vest). <br>
+    One day we were googling fun places to bring dogs in San Diego and we came across
+  <a href="https://www.meetup.com/sandiegocorgimeetup/">The San Diego Corgi Meetup</a>
+   group. We saw they had lots of members with lots and lots of corgis, AND, they were having a meetup in the not too distant future! After making an account and signing up, we looked at some of the other corgis who were attending. We couldn't wait to meet them all and we were sure Winnie was going to have a blast (even with the life vest). <br>
   
  &emsp; 
   Fast forward to the day of the meetup, we got out of bed in the wee early morning at 9am (pretty early for a weekend morning), to an already awake and busy chewing something Winnie. She had a lot of energy that day and it was perfect because she was going to need a lot of it for playing and swimming on the beach. After packing up and eating breakfast, we left for the meetup a little late, but still at an ok time. The drive went pretty fast and parking onsite was pretty ok, we found a spot rather quickly right next to an entrance to the dog beach. After looking at the meeting location on a very handily provided map, we set out towards it with Winnie in tow. Cresting just one ridge led us to an amazing view of the bay and more importantly, a big group of corgis hanging out by the water. 
