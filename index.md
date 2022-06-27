@@ -1,3 +1,4 @@
+# Welcome to Winnie's Wonderful Adventures
 <img src="/assets/Mountain_Corgi-min.jpg" width=auto height=auto>
 
 # Posts
