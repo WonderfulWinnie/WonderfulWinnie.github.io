@@ -8,18 +8,18 @@ description: June 25, 2022
 <body>
 
 <p align="center">
-  <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+  <img src="/assets/june/25/cm_2.jpg" width=auto height=auto>
   <hr />
   <p>
     &emsp; 
     Winnie really likes water. A lot. To the extent that Annaka got her a little yellow dragon themed life vest. At first, winnie outright abhorred the idea of wearing it. We tried putting it on her and she slithered out of it like a snake. However, we had a trick up our sleeves, we knew the perfect place to try it on her and get her to enjoy it, at the Corgi Meetup on Fiesta Island in San Diego.
     
     <p align="left">
-      <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+      <img src="/assets/june/25/cm_1.jpg" width=auto height=auto>
     </p>
  
     <p align="right">
-      <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+      <img src="/assets/june/25/cm_1_5.jpg" width=auto height=auto>
     </p>
   &emsp; 
     One day we were googling fun places to bring dogs in San Diego and we came across [The San Diego Corgi Meetup](https://www.meetup.com/sandiegocorgimeetup/) group. We saw they had lots of members with lots and lots of corgis, AND, they were having a meetup in the not too distant future! After making an account and signing up, we looked at some of the other corgis who were attending. We couldn't wait to meet them all and we were sure Winnie was going to have a blast (even with the life vest).
@@ -32,22 +32,22 @@ description: June 25, 2022
   
   
   <p align="left">
-      <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+      <img src="/assets/june/25/cm_3.jpg" width=auto height=auto>
   </p>
  
   <p align="right">
-    <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+    <img src="/assets/june/25/cm_4.jpg" width=auto height=auto>
   </p>
   
   &emsp;
   After a while of swimming and running around, we went with some others on a walk along the beach. The idea was it would help all the corgis dry out before going back in cars. This didn't really work for Winnie as she kept going back in the water, but the top half of her kind of dried out. So partial success. The walk ended with us heading back to the car to rinse off Winnie's sandy feet and then wrapping her up wiht a towel like a little corgi burrito. She was sooo tired and happy.
   
   <p align="left">
-      <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+      <img src="/assets/june/25/cm_5.jpg" width=auto height=auto>
   </p>
  
   <p align="right">
-    <img src="/assets/CorgiCloseup-min.jpg" width=auto height=auto>
+    <img src="/assets/june/25/cm_6.jpg" width=auto height=auto>
   </p>
   
   
