@@ -67,7 +67,7 @@ description: June 25, 2022
     <img src="/assets/june/25/cm_8.jpg" width=auto height=auto>
   </p>
   
-  Wonderful Adventures!
+  Wonderful Adventures! <br>
   - Alan & Annaka & Winnie
   </p>
 
