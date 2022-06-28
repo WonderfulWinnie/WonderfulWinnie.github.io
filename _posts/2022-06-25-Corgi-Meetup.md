@@ -44,7 +44,7 @@ description: June 25, 2022
   </p>
   
   &emsp;
-  After a while of swimming and running around, we went with some others on a walk along the beach. The idea was it would help all the corgis dry out before going back in cars. This didn't really work for Winnie as she kept going back in the water, but the top half of her kind of dried out. So partial success. The walk ended with us heading back to the car to rinse off Winnie's sandy feet and then wrapping her up wiht a towel like a little corgi burrito. She was sooo tired and happy.
+  After a while of swimming and running around, we went with some others on a walk along the beach. The idea was it would help all the corgis dry out before going back in cars. This didn't really work for Winnie as she kept going back in the water, but the top half of her kind of dried out. So partial success. The walk ended with us heading back to the car to rinse off Winnie's sandy feet and then wrapping her up with a towel like a little corgi burrito. She was sooo tired and happy.
   <br>
   
   <p align="left">
@@ -55,7 +55,20 @@ description: June 25, 2022
     <img src="/assets/june/25/cm_6.jpg" width=auto height=auto>
   </p>
   
+  &emsp;
+  On the way back from the beach, we stopped by a carwash for two reason. 1. To get the car washed as it had been a while. I didn't realize how fast it gets dirty when there is no rain around to help keep it clean. 2. To see Winnie's reaction to the colorful soap, lights, and brushes. There was quite the line so we had to wait a long time but once inside, Winnie had quite the blast. She intently watched all the action. The brushes scared her a little as they came onto the glass but she still watched and didn't run away. She barked maybe once or twice. Her favorite part however, was after the main carwash part, the person at the end did some detailing by hand. He had some microfiber towels that he then wiped the windows with and Winnie LOVED it. She chased after the towels as they went past her on the window and definitely left some slobber haha. Overall, we all had a great time on the beach meeting other corgis, watching Winnie swim, and going through the carwash.
+  <br>
   
+  <p align="left">
+      <img src="/assets/june/25/cm_9.jpg" width=auto height=auto>
+  </p>
+ 
+  <p align="right">
+    <img src="/assets/june/25/cm_8.jpg" width=auto height=auto>
+  </p>
+  
+  Wonderful Adventures!
+  - Alan & Annaka & Winnie
   </p>
 
   
